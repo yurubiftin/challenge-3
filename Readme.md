@@ -4,14 +4,14 @@ You will be building out an application, Flatdango, that allows a user to purcha
 
 
 ## setup
-navigate in the project's directory `cd code-challenge-3`
-clone the repository in the project's directory` git clone git@github.com:yurubiftin/challenge-3.git`
-open the visual studio code `code .`
-Run this command to get the backend started:
+- navigate in the project's directory `cd code-challenge-3`
+- clone the repository in the project's directory` git clone git@github.com:yurubiftin/challenge-3.git`
+- open the visual studio code `code .`
+- Run this command to get the backend started:
  $ json-server --watch db.json
-Test your server by visiting this route in the browser:
+- Test your server by visiting this route in the browser:
  ` http://localhost:3000/films`
-Then, open the index.html file on your browser to run the application.
+- Then, open the index.html file on your browser to run the application.
 Write your code in the index.js file. The base URL for your API will be
   `http://localhost:3000.`
 ### flatdango
