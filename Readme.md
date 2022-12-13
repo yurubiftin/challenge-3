@@ -131,5 +131,12 @@ As a user, I can:
   be able to buy a ticket if the showing is sold out (if there are 0 tickets
   available).
 
+
+
+## how to use flatdango
+
+to use flatdango https://yurubiftin.github.io/challenge-3/
+
+
   ## author
   Yurub Ahmed
