@@ -1,4 +1,4 @@
-let URL = 'https://api.npoint.io/cc548ebc5e209372d345'
+let URL = 'https://api.npoint.io/cc548ebc5e209372d345/films'
 const listHolder = document.getElementById('films')
 document.addEventListener('DOMContentLoaded', ()=>{
     document.getElementsByClassName('film item')[0].remove()
