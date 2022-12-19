@@ -17,7 +17,7 @@ function fetchMovies(URL){
 //function to display the titles of the movies as a list
 function displayMovie(movie){
     const list = document.createElement('li')
-    list.style.cursor="cell"
+    list.style.cursor="pointer"
     list.textContent= (movie.title)
     listHolder.appendChild(list)
     addClickEvent()
